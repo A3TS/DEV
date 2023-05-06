@@ -7,7 +7,7 @@ sudo systemctl restart sshd && sudo passwd ec2-user
 2. ssh ec2-ser@publicIP
    ssh ec2-user@54.226.123.232
 Password
-
+#New Modification
 #!/bin/bash  
 <<sp  
 Title           : Learning comment
