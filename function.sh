@@ -1,4 +1,4 @@
-echo "Function demo starts.."
+#echo "Function demo starts.."
 
 greetfn()
 {
